@@ -1,0 +1,7 @@
+Student Number: 123
+Full Name: asasd, asdasdasdd , cd
+Program:BS in Information Technology
+Gender:Male
+Age: 22
+Birthday: Friday, November 17, 2023
+Contact No.:3412312323

@@ -1,0 +1,7 @@
+Student Number: 02000277094
+Full Name: Dionisio, Paul , DC
+Program:BS in Information Technology
+Gender:Male
+Age: 22
+Birthday: Friday, November 17, 2023
+Contact No.:09152883945

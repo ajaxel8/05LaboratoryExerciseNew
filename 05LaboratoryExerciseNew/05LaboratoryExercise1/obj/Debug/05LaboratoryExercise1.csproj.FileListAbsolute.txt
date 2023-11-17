@@ -1,0 +1,13 @@
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\bin\Debug\05LaboratoryExercise1.exe.config
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\bin\Debug\05LaboratoryExercise1.exe
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\bin\Debug\05LaboratoryExercise1.pdb
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\obj\Debug\05LaboratoryExercise1.csproj.AssemblyReference.cache
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\obj\Debug\_05LaboratoryExercise1.FrmLab1.resources
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\obj\Debug\_05LaboratoryExercise1.frmFileName.resources
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\obj\Debug\_05LaboratoryExercise1.frmRegistration.resources
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\obj\Debug\_05LaboratoryExercise1.FrmStudentRecord.resources
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\obj\Debug\_05LaboratoryExercise1.Properties.Resources.resources
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\obj\Debug\05LaboratoryExercise1.csproj.GenerateResource.cache
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\obj\Debug\05LaboratoryExercise1.csproj.CoreCompileInputs.cache
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\obj\Debug\05LaboratoryExercise1.exe
+C:\Users\HP EliteBook\Source\Repos\05LaboratoryExercise1\05LaboratoryExercise1\obj\Debug\05LaboratoryExercise1.pdb
